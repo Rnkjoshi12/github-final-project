@@ -14,3 +14,4 @@ read t
 si=$((p*r*t/100))
 
 echo "The Simple Interest is: $si"
+
